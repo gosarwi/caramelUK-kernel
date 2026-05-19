@@ -1,5 +1,5 @@
 # caramelUK-kernel
-# 🍬 CaramelUK (Caramely OS)
+# 🍬 CaramelUK (Caramely OS) beta 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
