@@ -2,7 +2,7 @@
 # 🍬 CaramelUK (Caramely OS) beta 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Status: Active Development](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
+[![Status: closed](https://img.shields.io/badge/Status-Active%20Development-green.svg)]()
 [![Stage: v1.0 Green Tea](https://img.shields.io/badge/Stage-v1.0%20Green%20Tea-purple.svg)]()
 
 **CaramelUK** (основной компонент проекта **Caramely OS**) — это независимое монолитное хобби-ядро и операционная система, разрабатываемая с нуля. 
